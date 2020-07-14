@@ -1,0 +1,105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Xpedite Portal</title>
+<link href="styles.css" media="all" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body itemscope itemtype="http://schema.org/EmailMessage">
+
+<table class="body-wrap">
+	<tr>
+		<td></td>
+		<td class="container" width="600">
+			<div class="content">
+				<table class="main" width="100%" cellpadding="0" cellspacing="0">
+					<tr>
+					<!-- logo code here -->
+						<td class="logo">														
+							<span class="icon login" style="font-size: 22px; color: #ffffff;"></span> Xpedite, Inc
+						</td>
+					<!-- logo code END here -->
+
+					
+						<td class="subject">							
+							Overtime Application
+						</td>
+					</tr>
+					
+					<tr>
+						<td colspan="2" class="content-wrap">
+							<table width="100%" cellpadding="0" cellspacing="0">
+								<tr>
+									<td class="content-block">
+										Dear <strong>'.$mngr_name.'</strong> ,
+									</td>
+								</tr>
+								
+								<tr>
+									<td class="content-block">
+										Employee <strong>'.$nameonly.'</strong> 
+										has filed an overtime on <strong>'.$today.'</strong> with reference number <strong>'.$last_id.'</strong>. Details are as follows:
+									</td>												
+								</tr>
+								
+								<tr>
+									<td class="content-details">											
+										Name: <strong>'.$nameonly.'</strong><br>
+										Department: '.$department.' <br>
+
+										Type: '.$type.' <br>
+										Duration: '.$duration.'<br>
+										Total Overtime Hours: <strong>'.$num_hrs.'</strong><br>
+										Reason: <br>
+										<strong>'.$description.'</strong>
+									</td>																								
+								</tr>
+								
+								<tr>
+									<td class="content-block">
+										Please proceed to <strong> approve </strong> or <strong> decline </strong> this overtime application.
+									</td>
+								</tr>
+																
+								<tr>
+									<td class="content-btn">
+										<a href="http://xpediteportal.c1.biz/response.php?response=.$encryted." class="btn-primary"><!--[if mso]>&nbsp; &nbsp;<![endif]-->Approve<!--[if mso]>&nbsp; &nbsp;<![endif]--></a>
+										<a href="http://xpediteportal.c1.biz/response.php?response=.$encryted."  class="btn-warning"><!--[if mso]>&nbsp; &nbsp;<![endif]-->Decline<!--[if mso]>&nbsp; &nbsp;<![endif]--></a>
+									</td>
+								</tr>
+								<tr>
+									<td class="content-block">
+										Thank you!
+									</td>
+								</tr>
+								
+								<tr>
+									<td class="content-block">
+										<span class="icon login"></span><strong> Xpedite, Inc. </strong>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+				<div class="footer">
+					<table width="100%">
+						<tr>
+							<td class="alignleft content-block">
+							This email was sent automatically by Xpedite Portal
+							to '.$mngr_email.'. Please ignore this email and do not click any links if you are not the owner of this account. <br><br>
+						
+							© 2020 Xpedite Inc. All rights reserved</td>
+						</tr>
+					</table>
+				</div></div>
+		</td>
+		<td></td>
+	</tr>
+</table>
+
+</body>
+</html>

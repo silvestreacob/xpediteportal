@@ -1,0 +1,212 @@
+<style type=3D"text/css">
+       /* CLIENT-SPECIFIC STYLES */
+       #outlook a{padding:0;} /* Force Outlook to provide a "view in browse=
+r" message */
+       .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotma=
+il to display emails at full width */
+       .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClas=
+s font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force=
+ Hotmail to display normal line spacing */
+       body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adju=
+st:100%;} /* Prevent WebKit and Windows mobile changing default text sizes =
+*/
+       table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spa=
+cing between tables in Outlook 2007 and up */
+       img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of =
+resized image in Internet Explorer */
+
+       /* RESET STYLES */
+       body{margin:0; padding:0;}
+       img{border:0; height:auto; line-height:100%; outline:none; text-deco=
+ration:none;}
+       table{border-collapse:collapse !important;}
+       body{height:100% !important; margin:0; padding:0; width:100% !import=
+ant;}
+
+       /* Basic Resets  */
+       p {margin:0; padding:0; margin-bottom:0;}
+
+        /* This sets a clean slate for all clients EXCEPT Gmail. */
+        h1, h2, h3, h4, h5, h6 {
+           color: black;
+           line-height: 100%;
+           }  /* Overwrite Outlook.com's default css and make your headings=
+ appear consistant with Gmail. From there, you can overwrite your styles in=
+line if needed.  */
+
+       /* iOS BLUE LINKS */
+       .appleBody a {color:#68440a; text-decoration: none;}
+       .appleFooter a {color:#999999; text-decoration: none;}
+
+       /* Default Sophos link color - Still need to do inline in copy */
+       a {color:#2a7dc0; text-decoration:none;}
+       a:link {color:#2a7dc0; text-decoration:none;}
+
+       /* MOBILE STYLES */
+       @media screen and (max-width: 525px) {
+
+
+
+           /* ADJUSTS LAYOUT OF LOGO IMAGE */
+           td[class=3D"logo"]{
+             text-align: left;
+             padding: 6px 0 6px 0 !important;
+             height:0px !important;
+           }
+
+           td[class=3D"logo"] img{
+             margin:0 auto!important;
+           }
+
+
+           /* SETS THE IMAGE TO SCALE SIZE  */
+           img[class=3D"img-max"]{
+             max-width: 100% !important;
+             height:auto !important;
+           }
+
+           /* FULL-WIDTH TABLES */
+           table[class=3D"responsive-table"]{
+             width:100%!important;
+           }
+
+
+           /* UTILITY CLASSES FOR ADJUSTING PADDING ON MOBILE */
+
+           td[class=3D"padding-copy"]{
+             padding: 10px 5% 10px 5% !important;
+             text-align: center !important;
+           }
+
+           td[class=3D"padding-meta"]{
+             padding: 30px 5% 0px 5% !important;
+             text-align: center;
+           }
+
+           td[class=3D"no-padding"]{
+             padding: 0 !important;
+           }
+           /* Shrinks very large headings for mobile */
+           td[class=3D"mobile-heading"]{
+             font-size:27px !important;
+             line-height:31px !important;
+             text-align:center !important;
+           }
+           td[class=3D"mobile-heading-medium"]{
+             font-size:24px !important;
+             line-height:28px !important;
+             text-align:center !important;
+           }
+           td[class=3D"mobile-heading-small"]{
+             font-size:20px !important;
+             line-height:22px !important;
+             text-align:center !important;
+           }
+
+
+
+
+           /* Removes the border-radius on mobile for the header */
+           table[class=3D"responsive-table-header"]{
+             width:100%!important;
+             border-radius:0 !important;
+             -webkit-border-radius::0 !important;
+             -moz-border-radius:0 !important;
+           }
+
+           /* Removes the body padding on mobile */
+           td[class=3D"mobile-wrapper-padding"]{
+             padding:0px !important;
+           }
+
+
+
+           /* ADJUST BUTTONS ON MOBILE */
+
+           td[class=3D"mobile-button-wrapper"]{
+               padding: 15px 5% 5px 5% !important;
+           }
+           table[class=3D"responsive-table-lc"]{
+               width:90% !important;
+           }
+
+           a[class=3D"mobile-button"]{
+               width:80% !important;
+               padding: 15px !important;
+               border: 0 !important;
+               font-size: 18px !important;
+           }
+
+
+
+
+           /* FORCES TEXT CENTER ON MOBILE - for left align desktop element=
+s */
+           table[class=3D"mobile-middle"]{
+               width: 100% !important;
+               text-align:center !important;
+           }
+           td[class=3D"mobile-middle"]{
+               width: 100% !important;
+               text-align:center !important;
+           }
+
+
+
+           /*  GENERIC SECTION PADDING FOR MOBILE - provides some top & bot=
+tom padding on a horozontal row  */
+           td[class=3D"mobile-section-padding"]{
+               padding: 25px 10px 25px 10px !important;
+           }
+
+
+           /* GENERIC PADDINGS FOR MOBILE - gives left & right padding on m=
+obile, yet leaves vertical from desktop */
+
+           table[class=3D"mobile-padding"]{
+               padding-left: 10px !important;
+               padding-right: 10px !important;
+               text-align: center !important;
+           }
+
+           td[class=3D"mobile-padding"]{
+               padding-left: 15px !important;
+               padding-right: 15px !important;
+               text-align: center !important;
+           }
+           td[class=3D"mobile-spacer"]{
+               padding-top:20px !important;
+           }
+           td[class=3D"mobile-spacer-less"]{
+               padding-top:10px !important;
+           }
+           /* Live Chat */
+           td[class=3D"mobile-chat"]{
+               width: 100% !important;
+               text-align:center !important;
+               padding-left:10px !important;
+               padding-right:10px !important;
+           }
+
+
+           /* HIDE ON MOBILE - still shows on desktop */
+
+           td[class=3D"mobile-hide"]{
+               display:none;}
+
+           img[class=3D"mobile-hide"]{
+               display: none !important;
+           }
+
+           br[class=3D"mobile-hide"]{
+               display: none !important;
+           }
+           span[class=3D"mobile-hide"]{
+               display: none !important;
+           }
+           table[class=3D"mobile-background"]{
+               background:none !important;
+           }
+
+       }
+  </style>

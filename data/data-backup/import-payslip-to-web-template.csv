@@ -1,0 +1,771 @@
+﻿Employee_id,,Income_desc,Income_hrs,Income_amount,gross_amount,deductions_desc,deductions_amount,deductions_total,net_amount,,
+MNL019002,2019-05-B (5/14/2019-5/28/2019),Regular Hours,80(0),50000,50000,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","800<br>
+550.00<br>
+100.00<br>
+9,005.00",10455,39545,,
+MNL019003,2019-05-B (5/14/2019-5/28/2019),Regular Hours,88(0),34125,34125,"HDMF Loan<br>
+SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","1851.2<br>
+800.00<br>
+550.00<br>
+100.00<br>
+2,552.68",5853.88,28271.12,,
+MNL019004,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Regular Overtime<br>
+Regular Day ND","88(0)<br>
+3(0)<br>
+37(0)","19975<br>
+864.17<br>
+852.65",21691.82,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","800<br>
+549.31<br>
+100.00<br>
+1,251.05",2700.36,18991.46,,
+MNL019005,2019-05-B (5/14/2019-5/28/2019),Regular Hours,88(0),42500,42500,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","800<br>
+550.00<br>
+100.00<br>
+7,087.50",8537.5,33962.5,,
+MNL019006,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Adjustment Basic","80(0)<br>
+0(0)","46872<br>
+62,400.00",109272,"SSS Loan<br>
+SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","1476.64<br>
+800.00<br>
+550.00<br>
+100.00<br>
+24,480.50",27407.14,81864.86,,
+MNL019007,2019-05-B (5/14/2019-5/28/2019),Regular Hours,88(0),86250,86250,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","800<br>
+550.00<br>
+100.00<br>
+13,148.33",14598.33,71651.67,,
+MNL019008,2019-05-B (5/14/2019-5/28/2019),Regular Hours,80(0),16785.3,16785.3,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","680<br>
+461.60<br>
+100.00<br>
+954.85",2196.45,14588.85,,
+MNL019009,2019-05-B (5/14/2019-5/28/2019),Regular Hours,80(0),15450,15450,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","620<br>
+428.88<br>
+100.00<br>
+610.05",1758.93,13691.07,,
+MNL019010,2019-05-B (5/14/2019-5/28/2019),Regular Hours,88(0),17500,17500,"SSS Loan<br>
+SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","1010.54<br>
+800.00<br>
+481.25<br>
+100.00<br>
+914.59",3306.38,14193.62,,
+MNL019011,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Regular Day ND<br>
+Restday<br>
+Company Vacation Leave (Taxable)","79(0)<br>
+9(5)<br>
+5(30)<br>
+1(0)","13097.14<br>
+138.85<br>
+1,092.96<br>
+152.86",14481.81,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","800<br>
+364.37<br>
+100.00<br>
+201.13",1465.5,13016.31,,
+MNL019012,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Regular Overtime<br>
+Regular Day ND<br>
+Company Vacation Leave (Taxable)","87(15)<br>
+4(0)<br>
+1(55)<br>
+0(45)","13135.35<br>
+764.31<br>
+29.30<br>
+114.65",14043.61,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","800<br>
+364.37<br>
+100.00<br>
+219.42",1483.79,12559.82,,
+MNL019013,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Regular Day ND<br>
+Company Sick Leave<br>
+Company Vacation Leave (Taxable)","81(31)<br>
+39(42)<br>
+3(17)<br>
+3(22)","13156.76<br>
+652.66<br>
+539.77<br>
+553.47",14902.66,"SSS Loan<br>
+HDMF MP2 CONTRIBUTION<br>
+SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","1476.64<br>
+500.00<br>
+580.00<br>
+391.87<br>
+100.00<br>
+0.00",3048.51,11854.15,,
+MNL019014,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Company Vacation Leave (Taxable)<br>
+Tardiness","76(30)<br>
+3(30)<br>
+3(30)","12182.8<br>
+512.62<br>
+(512.62)",12182.8,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","500<br>
+349.12<br>
+100.00<br>
+0.00",949.12,11233.68,,
+MNL019015,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Regular Day ND<br>
+Company Vacation Leave (Taxable)","95(30)<br>
+22(25)<br>
+0(30)","10190.87<br>
+265.08<br>
+59.13",10515.08,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","420<br>
+281.87<br>
+100.00<br>
+0.00",801.87,9713.21,,
+MNL019016,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Regular Day ND<br>
+Company Sick Leave<br>
+Company Vacation Leave (Taxable)","74(52)<br>
+3(0)<br>
+4(38)<br>
+5(30)","9581.58<br>
+37.55<br>
+579.97<br>
+688.45",10887.55,"HDMF Loan<br>
+SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","394.38<br>
+440.00<br>
+298.37<br>
+100.00<br>
+0.00",1232.75,9654.8,,
+MNL019017,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Regular Overtime<br>
+Company Vacation Leave (Taxable)","83(0)<br>
+1(0)<br>
+1(0)","9637.52<br>
+140.60<br>
+112.48",9890.6,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","400<br>
+268.13<br>
+100.00<br>
+0.00",768.13,9122.47,,
+MNL019018,2019-05-B (5/14/2019-5/28/2019),Regular Hours,88(0),14250,14250,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","580<br>
+391.87<br>
+100.00<br>
+255.50",1327.37,12922.63,,
+MNL019019,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Regular Overtime<br>
+Regular Day ND","80(0)<br>
+3(0)<br>
+24(57)","10500<br>
+454.26<br>
+302.23",11256.49,"HDMF MP2 CONTRIBUTION<br>
+SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","500<br>
+420.00<br>
+288.75<br>
+100.00<br>
+0.00",1308.75,9947.74,,
+MNL019020,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Rest day ND<br>
+Restday<br>
+Restday excss 9hrs<br>
+Company Sick Leave<br>
+Company Vacation Leave (Taxable)","78(45)<br>
+1(0)<br>
+8(0)<br>
+1(0)<br>
+2(54)<br>
+3(21)","11134.76<br>
+18.00<br>
+1,439.78<br>
+233.96<br>
+401.47<br>
+463.77",13691.74,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","480<br>
+330.00<br>
+100.00<br>
+0.00",910,12781.74,,
+MNL019021,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Company Vacation Leave (Taxable)","79(0)<br>
+1(0)","11999.66<br>
+140.05",12139.71,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","480<br>
+333.84<br>
+100.00<br>
+0.00",913.84,11225.87,,
+MNL019022,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Restday<br>
+Restday excss 9hrs<br>
+Company Vacation Leave (Taxable)","79(30)<br>
+16(0)<br>
+2(0)<br>
+0(30)","12427.9<br>
+2,999.54<br>
+487.43<br>
+72.10",15986.97,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","500<br>
+343.75<br>
+100.00<br>
+588.74",1532.49,14454.48,,
+MNL019023,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Company Vacation Leave (Taxable)","76(45)<br>
+3(15)","12031.32<br>
+468.68",12500,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","500<br>
+343.75<br>
+100.00<br>
+0.00",943.75,11556.25,,
+MNL019024,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Company Sick Leave","72(0)<br>
+8(0)","11414.41<br>
+1,160.59",12575,"HDMF MP2 CONTRIBUTION<br>
+SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","500<br>
+500.00<br>
+345.81<br>
+100.00<br>
+0.00",1445.81,11129.19,,
+MNL019025,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Regular Overtime<br>
+Regular Day ND<br>
+Company Vacation Leave (Taxable)","79(30)<br>
+2(0)<br>
+2(0)<br>
+0(30)","8848.66<br>
+256.69<br>
+20.54<br>
+51.34",9177.23,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","360<br>
+244.75<br>
+100.00<br>
+0.00",704.75,8472.48,,
+MNL019026,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Company Sick Leave<br>
+Company Vacation Leave (Taxable)","71(30)<br>
+5(9)<br>
+3(21)","8568.41<br>
+564.43<br>
+367.16",9500,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","380<br>
+261.25<br>
+100.00<br>
+0.00",741.25,8758.75,,
+MNL019027,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Regular Overtime<br>
+Rest day ND<br>
+Restday<br>
+Restday excss 9hrs<br>
+Company Vacation Leave (Taxable)","85(15)<br>
+1(0)<br>
+1(0)<br>
+16(0)<br>
+1(0)<br>
+0(45)","10409.15<br>
+151.42<br>
+15.75<br>
+2,519.61<br>
+204.72<br>
+90.85",13391.5,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","420<br>
+288.75<br>
+100.00<br>
+0.00",808.75,12582.75,,
+MNL019028,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Company Sick Leave","85(0)<br>
+8(0)","8078.59<br>
+821.41",8900,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","360<br>
+244.75<br>
+100.00<br>
+0.00",704.75,8195.25,,
+MNL019029,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Company Vacation Leave (Taxable)","84(0)<br>
+1(0)","8896.17<br>
+103.83",9000,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","360<br>
+247.50<br>
+100.00<br>
+0.00",707.5,8292.5,,
+MNL019030,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Regular Day ND<br>
+Company Sick Leave<br>
+Company Vacation Leave (Taxable)","75(15)<br>
+30(56)<br>
+1(24)<br>
+3(21)","9215.71<br>
+347.95<br>
+157.47<br>
+376.82",10097.95,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","400<br>
+268.13<br>
+100.00<br>
+0.00",768.13,9329.82,,
+MNL019031,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Regular Overtime<br>
+Regular Day ND","80(0)<br>
+7(0)<br>
+35(30)","14000<br>
+1,413.24<br>
+573.38",15986.62,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","560<br>
+385.00<br>
+100.00<br>
+571.26",1616.26,14370.36,,
+MNL019032,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Company Sick Leave<br>
+Company Vacation Leave (Taxable)","81(0)<br>
+2(29)<br>
+3(21)","14690.07<br>
+451.22<br>
+608.71",15750,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+PERAA<br>
+Withholding Tax","640<br>
+433.12<br>
+100.00<br>
+0.00<br>
+560.00",1733.12,14016.88,,
+MNL019033,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Company Sick Leave<br>
+Company Vacation Leave (Taxable)","70(30)<br>
+8(0)<br>
+1(30)","13356.02<br>
+1,384.40<br>
+259.58",15000,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","600<br>
+412.50<br>
+100.00<br>
+433.53",1546.03,13453.97,,
+MNL019034,2019-05-B (5/14/2019-5/28/2019),Regular Hours,88(0),39555,39555,"SSS Loan<br>
+SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","1476.64<br>
+800.00<br>
+550.00<br>
+100.00<br>
+5,142.89",8069.53,31485.47,,
+MNL019035,2019-05-B (5/14/2019-5/28/2019),Regular Hours,88(0),12375,12375,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","800<br>
+340.31<br>
+100.00<br>
+0.00",1240.31,11134.69,,
+MNL019036,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Regular Overtime<br>
+Restday","88(0)<br>
+29(0)<br>
+19(0)","9540<br>
+3,989.68<br>
+2,718.48",16248.16,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","800<br>
+262.34<br>
+100.00<br>
+514.50",1676.84,14571.32,,
+MNL019037,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Company Vacation Leave (Taxable)","71(32)<br>
+16(28)","19825.87<br>
+4,649.63",24475.5,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","800<br>
+550.00<br>
+100.00<br>
+2,437.20",3887.2,20588.3,,
+MNL019038,2019-05-B (5/14/2019-5/28/2019),Regular Hours,88(0),27448.2,27448.2,"HDMF Loan<br>
+SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","2298.74<br>
+800.00<br>
+550.00<br>
+100.00<br>
+3,143.71",6892.45,20555.75,,
+MNL019039,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Company Vacation Leave (Taxable)","85(55)<br>
+2(5)","19800.19<br>
+487.61",20287.8,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","800<br>
+550.00<br>
+100.00<br>
+1,394.30",2844.3,17443.5,,
+MNL019040,2019-05-B (5/14/2019-5/28/2019),Regular Hours,88(0),25693.2,25693.2,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","800<br>
+550.00<br>
+100.00<br>
+2,661.49",4111.49,21581.71,,
+MNL019041,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Company Vacation Leave (Taxable)","80(0)<br>
+8(0)","29336.17<br>
+2,982.83",32319,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","800<br>
+550.00<br>
+100.00<br>
+3,972.28",5422.28,26896.72,,
+MNL019042,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Regular Overtime<br>
+Regular Day ND","80(0)<br>
+3(0)<br>
+4(0)","9250<br>
+400.18<br>
+42.69",9692.87,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+PERAA<br>
+Withholding Tax","380<br>
+254.37<br>
+100.00<br>
+0.00<br>
+0.00",734.37,8958.5,,
+MNL019043,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Regular Day ND<br>
+Company Sick Leave<br>
+Company Vacation Leave (Taxable)","50(56)<br>
+14(28)<br>
+25(43)<br>
+3(21)","6148.19<br>
+154.38<br>
+2,744.32<br>
+357.49",9404.38,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","380<br>
+254.37<br>
+100.00<br>
+0.00",734.37,8670.01,,
+MNL019044,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Restday<br>
+Company Vacation Leave (Taxable)","75(45)<br>
+8(0)<br>
+1(15)","8131.03<br>
+989.85<br>
+118.97",9239.85,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","340<br>
+226.88<br>
+100.00<br>
+0.00",666.88,8572.97,,
+MNL019045,2019-05-B (5/14/2019-5/28/2019),Regular Hours,85(0),9000,9000,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","360<br>
+247.50<br>
+100.00<br>
+0.00",707.5,8292.5,,
+MNL019046,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Restday","80(0)<br>
+6(0)","9000<br>
+809.87",9809.87,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","360<br>
+247.50<br>
+100.00<br>
+0.00",707.5,9102.37,,
+MNL019047,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Regular Day ND<br>
+Company Sick Leave<br>
+Company Vacation Leave (Taxable)","64(0)<br>
+28(0)<br>
+12(39)<br>
+3(21)","7338.72<br>
+290.72<br>
+1,313.45<br>
+347.83",9290.72,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+PERAA<br>
+Withholding Tax","360<br>
+247.50<br>
+100.00<br>
+0.00<br>
+0.00",707.5,8583.22,,
+MNL019048,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Regular Day ND<br>
+Company Sick Leave<br>
+Company Vacation Leave (Taxable)","75(30)<br>
+3(0)<br>
+5(9)<br>
+3(21)","8027.25<br>
+30.80<br>
+528.78<br>
+343.97",8930.8,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","360<br>
+244.75<br>
+100.00<br>
+0.00",704.75,8226.05,,
+MNL019049,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Company Sick Leave<br>
+Company Vacation Leave (Taxable)","72(40)<br>
+3(59)<br>
+3(21)","8467.43<br>
+425.08<br>
+357.49",9250,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","380<br>
+254.27<br>
+100.00<br>
+0.00",734.27,8515.73,,
+MNL019050,2019-05-B (5/14/2019-5/28/2019),Regular Hours,88(0),8500,8500,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","340<br>
+233.75<br>
+100.00<br>
+0.00",673.75,7826.25,,
+MNL019051,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Restday","80(0)<br>
+8(0)","8750<br>
+1,049.84",9799.84,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","360<br>
+240.62<br>
+100.00<br>
+0.00",700.62,9099.22,,
+MNL019052,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Regular Day ND<br>
+Company Sick Leave<br>
+Company Vacation Leave (Taxable)","56(0)<br>
+17(28)<br>
+20(39)<br>
+3(21)","6146.53<br>
+171.28<br>
+2,024.97<br>
+328.50",8671.28,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","340<br>
+233.75<br>
+100.00<br>
+0.00",673.75,7997.53,,
+MNL019053,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Company Sick Leave<br>
+Company Vacation Leave (Taxable)","77(0)<br>
+4(39)<br>
+3(21)","7715.51<br>
+455.99<br>
+328.50",8500,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","340<br>
+233.75<br>
+100.00<br>
+0.00",673.75,7826.25,,
+MNL019054,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Regular Day ND<br>
+Restday","85(0)<br>
+3(0)<br>
+6(0)","8500<br>
+29.42<br>
+764.88",9294.3,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","340<br>
+233.75<br>
+100.00<br>
+0.00",673.75,8620.55,,
+MNL019055,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Regular Day ND<br>
+Restday","77(0)<br>
+3(0)<br>
+12(0)","8500<br>
+29.42<br>
+1,529.76",10059.18,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","340<br>
+233.75<br>
+100.00<br>
+0.00",673.75,9385.43,,
+MNL019056,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Company Vacation Leave (Taxable)","84(15)<br>
+3(45)","12437.59<br>
+562.41",13000,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","520<br>
+357.50<br>
+100.00<br>
+0.00",977.5,12022.5,,
+MNL019057,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Company Vacation Leave (Taxable)","84(15)<br>
+3(45)","12437.59<br>
+562.41",13000,"HDMF MP2 CONTRIBUTION<br>
+SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","2000<br>
+520.00<br>
+357.50<br>
+100.00<br>
+0.00",2977.5,10022.5,,
+MNL019058,2019-05-B (5/14/2019-5/28/2019),Regular Hours,88(0),12000,12000,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","480<br>
+330.00<br>
+100.00<br>
+0.00",910,11090,,
+MNL019059,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Company Vacation Leave (Taxable)","87(34)<br>
+0(26)","11193.76<br>
+56.24",11250,"SSS Loan<br>
+SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","1464.76<br>
+460.00<br>
+309.37<br>
+100.00<br>
+0.00",2334.13,8915.87,,
+MNL019060,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Company Sick Leave<br>
+Company Vacation Leave (Taxable)","80(0)<br>
+4(38)<br>
+3(22)","9077.07<br>
+534.53<br>
+388.40",10000,"HDMF Loan<br>
+SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","483.96<br>
+400.00<br>
+275.00<br>
+100.00<br>
+0.00",1258.96,8741.04,,
+MNL019061,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Company Vacation Leave (Taxable)","77(30)<br>
+2(30)","14567.37<br>
+432.63",15000,"SSS Loan<br>
+HDMF Loan<br>
+HDMF MP2 CONTRIBUTION<br>
+SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","1476.64<br>
+783.24<br>
+1,500.00<br>
+600.00<br>
+412.50<br>
+100.00<br>
+0.00",4872.38,10127.62,,
+MNL019062,2019-05-B (5/14/2019-5/28/2019),"Regular Hours<br>
+Rest day ND<br>
+Restday<br>
+Restday excss 9hrs","85(0)<br>
+2(0)<br>
+16(0)<br>
+1(0)","8500<br>
+25.37<br>
+2,029.28<br>
+164.88",10719.53,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","340<br>
+233.75<br>
+100.00<br>
+0.00",673.75,10045.78,,
+MNL019063,,,,,,,,,,,
+MNL019064,,,,,,,,,,,
+MNL019065,,,,,,,,,,,
+MNL019066,,,,,,,,,,,
+MNL019067,,,,,,,,,,,
+MNL019068,,,,,,,,,,,
+MNL019069,,,,,,,,,,,
+MNL019070,,,,,,,,,,,
+MNL019071,,,,,,,,,,,
+MNL019072,,,,,,,,,,,
+MNL020073,,,,,,,,,,,
+MNL020074,,,,,,,,,,,
+MNL020075,,,,,,,,,,,
+MNL020076,,,,,,,,,,,
+MNL020077,,,,,,,,,,,
+MNL020078,,,,,,,,,,,
+MNL020079,,,,,,,,,,,
+MNL020080,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,

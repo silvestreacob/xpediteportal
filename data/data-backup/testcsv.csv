@@ -1,0 +1,27 @@
+﻿Employee_id,Payroll_Period,Income_desc,Income_hrs,Income_amount,gross_amount,deductions_desc,deductions_amount,deductions_total,net_amount,,
+MNL019011,2019-05-A (5/14/2019-5/28/2019),"Regular Hours<br>
+Regular Overtime<br>
+Regular Day ND","88(0)<br>
+3(0)<br>
+37(0)","19975<br>
+864.17<br>
+852.65",21691.82,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","800<br>
+549.31<br>
+100.00<br>
+1,251.05",2700.36,18991.46,,
+MNL019012,2019-05-A (5/14/2019-5/28/2019),"Regular Hours<br>
+Regular Overtime<br>
+Regular Day ND","89(0)<br>
+3(0)<br>
+37(0)","19975<br>
+864.17<br>
+852.65",21691.84,"SSS Contribution<br>
+PhilHealth<br>
+PagIbig<br>
+Withholding Tax","900<br>
+549.31<br>
+100.00<br>
+1,251.05",2700.36,18991.46,,
