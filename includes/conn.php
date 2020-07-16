@@ -1,6 +1,6 @@
 <?php
 
-	$conn = new mysqli('localhost', 'root', '', 'datax');
+	//$conn = new mysqli('localhost', 'root', '', 'datax');
 	//$conn = new mysqli('fdb18.biz.nf', '3319611_datax', 'F8aiEkQ#s*CJ2ir', '3319611_datax');
 
 	$url = parse_url(getenv("CLEARDB_DATABASE_URL"));
