@@ -4,6 +4,7 @@
 
 <?php require './components/PHPMailer/src/PHPMailer.php'; ?>
 <?php require './components/PHPMailer/src/SMTP.php'; ?>
+<?php require 'vendor/autoload.php'; ?>
 
 <?php
 // Instantiation and passing `true` enables exceptions
