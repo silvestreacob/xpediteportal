@@ -17,7 +17,7 @@ $request_body = json_decode('{
     }
   ],
   "from": {
-    "email": "test@example.com"
+    "email": "xpenotification@gmail.com"
   },
   "content": [
     {
