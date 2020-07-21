@@ -1,5 +1,7 @@
 <?php
 	include 'includes/session.php';
+	// If you are not using Composer (recommended)
+	require("sendgrid-php/sendgrid-php.php");
 
 	if(isset($_POST['add'])){
 				
@@ -88,12 +90,40 @@
 			//$htmlContent = '		
 			
 
+					$request_body = json_decode('{
+					  "personalizations": [
+					    {
+					      "to": [
+					        {
+					          "email": "sacob@xpeditellc.com"
+					        }
+					      ],
+					      "subject": "Overtime Application: $name"
+					    }
+					  ],
+					  "from": {
+					    "email": xpenotification@gmail.com"
+					  },
+					  "content": [
+					    {
+					      "type": "text/plain",
+					      "value": "Hello, Email!"
+					    }
+					  ]
+					}');
 
+					$apiKey = getenv('SENDGRID_API_KEY');
+					$sg = new \SendGrid($apiKey);
+
+					$response = $sg->client->mail()->send()->post($request_body);
+					echo $response->statusCode();
+					echo $response->body();
+					echo $response->headers();
 
 			//';
 				
 							
-					mail($mngr_email, $subject, $htmlContent, $headers);
+					//mail($mngr_email, $subject, $htmlContent, $headers);
 					
 				$_SESSION['success'] = 'Thank you! Your request has been sent to your supervisor for further review. A confirmation mail will be send to you after the overtime request has been approved by your supervisor.';
 				}
